@@ -1,4 +1,5 @@
 # WeatherMatch 
+![image](https://user-images.githubusercontent.com/84174011/224535316-b193ad7e-40a9-46dd-9dd9-17d0b3ac376d.png)
 
 
 A weather app built with React that allows users to view current and forecasted weather information for a selected location.
